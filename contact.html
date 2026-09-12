@@ -256,32 +256,39 @@
                 </a>
             </div>
         </div>
-        
+
         <div class="container">
-            <div class="step" alt="">
-                <form id="form">
-                    <h1>Send a Message To Manuel</h1>
-                    <hr>
-                    <div class="mb-3">
-                        <label for="subject" class="form-label">
-                            <h3>Your E-Mail And Message</h3>
-                        </label>
-                    </div>
-                    <div class="mb-3">
-                        <textarea class="form-control" id="message" rows="16" name="message"></textarea>
-                    </div>
+    <div class="step" alt="">
+        <form id="form" name="contact" method="POST" data-netlify="true">
+            <input type="hidden" name="form-name" value="contact" />
 
-                    <button type="submit" class="send">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <h3>Send</h3>
-                        </buttom>
-
-                </form>
+            <h1>Send a Message To Manuel</h1>
+            <hr>
+            <div class="mb-3">
+                <label for="email" class="form-label">
+                    <h3>Your E-Mail</h3>
+                </label>
+                <input type="email" class="form-control" id="email" name="email" required>
             </div>
-        </div>
+            <div class="mb-3">
+                <label for="subject" class="form-label">
+                    <h3>Your Message</h3>
+                </label>
+            </div>
+            <div class="mb-3">
+                <textarea class="form-control" id="message" rows="16" name="message" required></textarea>
+            </div>
+
+            <button type="submit" class="send">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <h3>Send</h3>
+            </button>
+        </form>
+    </div>
+</div>
 
         <div class="container">
             <div class="step" alt="location">
