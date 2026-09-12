@@ -1,15 +1,17 @@
 const $form = document.querySelector("#form");
 $form.addEventListener("submit", handleSubmit);
+
 async function handleSubmit(event) {
   event.preventDefault();
   const fd = new FormData(this);
-  const response = await fetch("https://formspree.io/f/mzbnpaje", {
+  const encoded = new URLSearchParams(fd).toString();
+
+  const response = await fetch("/", {
     method: "POST",
-    body: fd,
-    headers: {
-      Accept: "application/json",
-    },
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: encoded,
   });
+
   if (response.ok) {
     this.reset();
     alert("Message Sent");
