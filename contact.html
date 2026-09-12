@@ -113,104 +113,104 @@
 
     <section class="logros">
 
-                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-            <style>
-                /* Contenedor de accesos directos */
-                .perfil-flotante-nieto {
-                    position: fixed;
-                    right: 15px;
-                    top: 50%;
-                    transform: translateY(-50%);
-                    display: flex;
-                    flex-direction: column;
-                    gap: 15px;
-                    z-index: 10000;
-                }
+        <style>
+            /* Contenedor de accesos directos */
+            .perfil-flotante-nieto {
+                position: fixed;
+                right: 15px;
+                top: 50%;
+                transform: translateY(-50%);
+                display: flex;
+                flex-direction: column;
+                gap: 15px;
+                z-index: 10000;
+            }
 
-                /* Estilo del botón circular */
+            /* Estilo del botón circular */
+            .btn-perfil-dt {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 55px;
+                height: 55px;
+                background-color: #000000;
+                /* Fondo negro para que resalte el blanco */
+                color: #FFFFFF;
+                /* Blanco solicitado */
+                border: 2px solid #FFFFFF;
+                border-radius: 50%;
+                text-decoration: none;
+                cursor: pointer;
+                font-size: 26px;
+                transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            }
+
+            /* Efecto Hover solicitado: Movimiento, Agrandamiento y Color Gold */
+            .btn-perfil-dt:hover {
+                color: #FFD700;
+                /* Gold #FFD700 */
+                border-color: #FFD700;
+                transform: scale(1.2) translateX(-5px);
+                /* Agrandamiento y leve movimiento a la izquierda */
+                box-shadow: 0 0 25px rgba(255, 215, 0, 0.6);
+                /* Brillo Gold flotante */
+            }
+
+            /* --- Responsive (310px a 1900px) --- */
+
+            /* Desktop / Pantallas Grandes */
+            @media (min-width: 1200px) {
                 .btn-perfil-dt {
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;
                     width: 55px;
                     height: 55px;
-                    background-color: #000000;
-                    /* Fondo negro para que resalte el blanco */
-                    color: #FFFFFF;
-                    /* Blanco solicitado */
-                    border: 2px solid #FFFFFF;
-                    border-radius: 50%;
-                    text-decoration: none;
-                    cursor: pointer;
-                    font-size: 26px;
-                    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-                    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+                }
+            }
+
+            /* Tablets / Pantallas Medianas */
+            @media (max-width: 1199px) and (min-width: 481px) {
+                .btn-perfil-dt {
+                    width: 50px;
+                    height: 50px;
+                    font-size: 24px;
+                }
+            }
+
+            /* Móviles (desde 310px) */
+            @media (max-width: 480px) {
+                .perfil-flotante-nieto {
+                    right: 10px;
+                    /* Reducimos margen para no estorbar en pantallas pequeñas */
+                    gap: 10px;
                 }
 
-                /* Efecto Hover solicitado: Movimiento, Agrandamiento y Color Gold */
+                .btn-perfil-dt {
+                    width: 42px;
+                    height: 42px;
+                    font-size: 20px;
+                    border-width: 1.5px;
+                }
+
                 .btn-perfil-dt:hover {
-                    color: #FFD700;
-                    /* Gold #FFD700 */
-                    border-color: #FFD700;
-                    transform: scale(1.2) translateX(-5px);
-                    /* Agrandamiento y leve movimiento a la izquierda */
-                    box-shadow: 0 0 25px rgba(255, 215, 0, 0.6);
-                    /* Brillo Gold flotante */
+                    transform: scale(1.1) translateX(-3px);
+                    /* Hover más sutil en móvil */
                 }
+            }
+        </style>
 
-                /* --- Responsive (310px a 1900px) --- */
+        <div class="perfil-flotante-nieto">
+            <a href="https://github.com/NietoDeveloper" target="_blank" rel="noopener noreferrer" class="btn-perfil-dt"
+                title="GitHub #1 Colombia">
+                <i class="fa-brands fa-github"></i>
+            </a>
 
-                /* Desktop / Pantallas Grandes */
-                @media (min-width: 1200px) {
-                    .btn-perfil-dt {
-                        width: 55px;
-                        height: 55px;
-                    }
-                }
-
-                /* Tablets / Pantallas Medianas */
-                @media (max-width: 1199px) and (min-width: 481px) {
-                    .btn-perfil-dt {
-                        width: 50px;
-                        height: 50px;
-                        font-size: 24px;
-                    }
-                }
-
-                /* Móviles (desde 310px) */
-                @media (max-width: 480px) {
-                    .perfil-flotante-nieto {
-                        right: 10px;
-                        /* Reducimos margen para no estorbar en pantallas pequeñas */
-                        gap: 10px;
-                    }
-
-                    .btn-perfil-dt {
-                        width: 42px;
-                        height: 42px;
-                        font-size: 20px;
-                        border-width: 1.5px;
-                    }
-
-                    .btn-perfil-dt:hover {
-                        transform: scale(1.1) translateX(-3px);
-                        /* Hover más sutil en móvil */
-                    }
-                }
-            </style>
-
-            <div class="perfil-flotante-nieto">
-                <a href="https://github.com/NietoDeveloper" target="_blank" rel="noopener noreferrer"
-                    class="btn-perfil-dt" title="GitHub #1 Colombia">
-                    <i class="fa-brands fa-github"></i>
-                </a>
-
-                <a href="https://www.linkedin.com/in/manuelfrancisconietoarias/" target="_blank"
-                    rel="noopener noreferrer" class="btn-perfil-dt" title="LinkedIn Profesional">
-                    <i class="fa-brands fa-linkedin-in"></i>
-                </a>
-            </div>
+            <a href="https://www.linkedin.com/in/manuelfrancisconietoarias/" target="_blank" rel="noopener noreferrer"
+                class="btn-perfil-dt" title="LinkedIn Profesional">
+                <i class="fa-brands fa-linkedin-in"></i>
+            </a>
+        </div>
 
         <div class="container">
             <div class="step" alt="idioms">
@@ -258,37 +258,37 @@
         </div>
 
         <div class="container">
-    <div class="step" alt="">
-        <form id="form" name="contact" method="POST" data-netlify="true">
-            <input type="hidden" name="form-name" value="contact" />
+            <div class="step" alt="">
+                <form id="form" name="contact" method="POST" data-netlify="true">
+                    <input type="hidden" name="form-name" value="contact" />
 
-            <h1>Send a Message To Manuel</h1>
-            <hr>
-            <div class="mb-3">
-                <label for="email" class="form-label">
-                    <h3>Your E-Mail</h3>
-                </label>
-                <input type="email" class="form-control" id="email" name="email" required>
-            </div>
-            <div class="mb-3">
-                <label for="subject" class="form-label">
-                    <h3>Your Message</h3>
-                </label>
-            </div>
-            <div class="mb-3">
-                <textarea class="form-control" id="message" rows="16" name="message" required></textarea>
-            </div>
+                    <h1>Send a Message To Manuel</h1>
+                    <hr>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">
+                            <h3>Your E-Mail</h3>
+                        </label>
+                        <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="subject" class="form-label">
+                            <h3>Your Message</h3>
+                        </label>
+                    </div>
+                    <div class="mb-3">
+                        <textarea class="form-control" id="message" rows="16" name="message" required></textarea>
+                    </div>
 
-            <button type="submit" class="send">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <h3>Send</h3>
-            </button>
-        </form>
-    </div>
-</div>
+                    <button type="submit" class="send">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <h3>Send</h3>
+                    </button>
+                </form>
+            </div>
+        </div>
 
         <div class="container">
             <div class="step" alt="location">
