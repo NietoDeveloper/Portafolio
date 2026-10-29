@@ -1,241 +1,2169 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 6 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 21 0 R 29 0 R 30 0 R 31 0 R ]
+/Contents 28 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 23 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:NietoSoftwareDeveloper@outlook.com)
->> /Border [ 0 0 0 ] /Rect [ 317.6644 738.5 469.4028 749.3 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\072NietoSoftwareDeveloper\100outlook\056com)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 317.6644 738.5 469.4028 749.3 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://manuelnieto.netlify.app/)
->> /Border [ 0 0 0 ] /Rect [ 396.5564 727 487.0468 737.8 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057manuelnieto\056netlify\056app\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 400.4724 727 490.9628 737.8 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/BaseFont /ZapfDingbats /Name /F3 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057camo\056githubusercontent\056com\057c682f9a64ffbe14826ffbe911f83ee9f15ebae0522ec20d781f165bc16393c5e\05768747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749544855425f52414e4b2d532532622d4646443730303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d303030303030266c6f676f3d676974687562266c6f676f436f6c6f723d464644373030)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 21.6 679.5 94.5 690 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://camo.githubusercontent.com/c682f9a64ffbe14826ffbe911f83ee9f15ebae0522ec20d781f165bc16393c5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749544855425f52414e4b2d532532622d4646443730303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d303030303030266c6f676f3d676974687562266c6f676f436f6c6f723d464644373030)
->> /Border [ 0 0 0 ] /Rect [ 21.6 679.5 90 690 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057committers\056top\057colombia\043NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 574.5 134.4678 584.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://committers.top/colombia#NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 574.5 129.9678 584.5 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057committers\056top\057colombia\137public\043NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 561 127.7364 571 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://committers.top/colombia_public#NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 561 123.2364 571 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057committers\056top\057colombia\137private\043NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 547.5 130.7706 557.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://committers.top/colombia_private#NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 547.5 126.2706 557.5 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057committers\056top\057colombia\043NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 534 147.0968 543 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://committers.top/colombia#NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 534 142.5968 543 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 520.5 139.0074 530.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 12 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 520.5 134.5074 530.5 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 510 55.7736 520 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 510 51.2736 520 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 187.7 80.0472 197.7 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 187.7 75.5472 197.7 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057committers\056top\057colombia\043NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 172.2 95.655 182.2 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://committers.top/colombia#NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 172.2 91.155 182.2 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057committers\056top\057colombia\137public\043NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 156.7 93.9234 166.7 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 16 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://committers.top/colombia_public#NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 156.7 89.4234 166.7 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057committers\056top\057colombia\137private\043NietoDeveloper)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 141.2 96.9576 151.2 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 17 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://committers.top/colombia_private#NietoDeveloper)
->> /Border [ 0 0 0 ] /Rect [ 27 141.2 92.4576 151.2 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057camo\056githubusercontent\056com\057c682f9a64ffbe14826ffbe911f83ee9f15ebae0522ec20d781f165bc16393c5e\05768747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749544855425f52414e4b2d532532622d4646443730303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d303030303030266c6f676f3d676974687562266c6f676f436f6c6f723d464644373030)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 31.5 125.7 100.8654 135.7 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 18 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://camo.githubusercontent.com/c682f9a64ffbe14826ffbe911f83ee9f15ebae0522ec20d781f165bc16393c5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749544855425f52414e4b2d532532622d4646443730303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d303030303030266c6f676f3d676974687562266c6f676f436f6c6f723d464644373030)
->> /Border [ 0 0 0 ] /Rect [ 27 125.7 96.3654 135.7 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057dronedt\056vercel\056app\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 161.3 482.4 192.5048 491.4 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 19 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dronedt.vercel.app/)
->> /Border [ 0 0 0 ] /Rect [ 161.3 482.4 192.5048 491.4 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057emeralddt\056vercel\056app\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 161.3 465.9 199.7048 474.9 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 20 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dashboarddronedt.vercel.app/)
->> /Border [ 0 0 0 ] /Rect [ 161.3 465.9 218.1224 474.9 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057dtv\056vercel\056app\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 161.3 445.65 230.5136 454.65 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 21 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://emeralddt.vercel.app/)
->> /Border [ 0 0 0 ] /Rect [ 161.3 449.4 199.7048 458.4 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056softwaredt\056com\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 159.8 360.5 212.306 371 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 22 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://emeralddt.vercel.app/)
->> /Border [ 0 0 0 ] /Rect [ 161.3 432.9 206.912 441.9 ] /Subtype /Link /Type /Annot
+/Length 30348
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.039216 .039216 .039216 rg
+n 0 0 612 792 re f*
+1 .843137 0 RG
+2 w
+n 21.6 780.7 m 591.8 780.7 l S
+1 .843137 0 RG
+1.2 w
+n 21.6 8 m 591.8 8 l S
+1 .843137 0 rg
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 237.501 751 Tm (MANUEL NIETO) Tj T* ET
+BT /F1 8.8 Tf 10.56 TL ET
+.862745 .862745 .862745 rg
+BT /F1 8.8 Tf 10.56 TL ET
+BT 1 0 0 1 142.5972 740.1 Tm (Bogot\341, Colombia   |   +57 313 215 1939   |   ) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 8.8 Tf 10.56 TL ET
+BT 1 0 0 1 317.6644 740.1 Tm (NietoSoftwareDeveloper@outlook.com) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.8 Tf 10.56 TL ET
+BT 1 0 0 1 124.9532 728.6 Tm (Full-Stack Software Engineer   |   MERN & Architecture Specialist   |   ) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 8.8 Tf 10.56 TL ET
+BT 1 0 0 1 396.5564 728.6 Tm (manuelnieto.netlify.app) Tj T* ET
+1 .843137 0 RG
+.5 w
+n 21.6 692.4 m 143.3 692.4 l S
+1 .843137 0 RG
+.5 w
+n 159.8 692.4 m 591.8 692.4 l S
+1 .843137 0 RG
+.6 w
+n 151.6 15 m 151.6 709.9 l S
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 696.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 695.0000 Tm (GITHUB RANK S+) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 681.6 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 680.0000 Tm (GitHub Rank S+) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 21.6 666.2 Tm (Ranked among the global elite GitHub) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 21.6 656.7 Tm (contributors.) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 592.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 591.0000 Tm (ELITE RANKINGS) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 577.6 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 576.0000 Tm (#1 Colombia \227 80,000+ devs) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 564.1 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 562.5000 Tm (#1 Colombia \267 Public Repos) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 550.6 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 549.0000 Tm (#1 Colombia \267 Private Repos) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 537.1 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 31.5000 535.5000 Tm (#2 LATAM Github Committer.top ranking) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 523.6 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 522.0000 Tm (Triple Badge \267 Overall \267 Public \267) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 511.5000 Tm (Private) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 21.6 498.2 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 32.8000 496.5000 Tm (350-day) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 66.4168 496.5000 Tm (Streak) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 94.4308 496.5000 Tm (Unbroken) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 21.6 482.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 32.8000 482.8000 Tm (21,800+) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 65.7280 482.8000 Tm (Commits) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 103.9984 482.8000 Tm (Last) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 122.2096 482.8000 Tm (Year) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 21.6 467.2 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 32.8000 465.5000 Tm (5) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 39.8056 465.5000 Tm (Active) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 67.3492 465.5000 Tm (Projects) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 412.2 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 410.5000 Tm (TECH STACK) Tj T* ET
+1 .843137 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 21.6 395.3 Tm (Backend) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 385.2000 Tm (Node.js \267 Express \267 MongoDB \267) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 375.0000 Tm (TypeScript \267 PostgreSQL \267) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 364.8000 Tm (REST APIs \267 Socket.IO \267) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 354.6 Tm (Python \267 C++) Tj T* ET
+1 .843137 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 21.6000 336.0000 Tm (Frontend) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 325.9000 Tm (React \267 Next.js 15 \267 TypeScript) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 315.7000 Tm (Tailwind CSS) Tj T* ET
+1 .843137 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 21.6000 297.1000 Tm (Cloud/DevOps) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 287.0000 Tm (AWS EC2 / S3 / Clusters \267 Docker) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 276.8000 Tm (CI/CD \267 Vercel \267 Railway \267 Git) Tj T* ET
+1 .843137 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 21.6000 258.2000 Tm (Data & IoT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 248.1000 Tm (Ethical AI \267 Real-time Monitoring) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 237.9000 Tm (Digital Twin IoT) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 205.9 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 204.2000 Tm (VERIFIED LINKS) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 190.8 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 189.2000 Tm (GitHub Profile) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 175.3 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 173.7000 Tm (#1 Colombia Rank) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 159.8 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 158.2000 Tm (Public Repo Rank) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 144.3 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 142.7000 Tm (Private Repo Rank) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 128.8 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 127.2000 Tm (GitHub Rank Badge) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 93.9 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 92.2000 Tm (CONTACT & TERMS) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 77.4 Tm (Rate: Starting at $35 / hr USD) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 61.2 Tm (Languages: English \(Pro\) \267) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 51 Tm (Spanish \(Native\)) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 34.8 Tm (Mode: Remote \267 Freelance \267 Global) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 159.8 695 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 170.0000 695.0000 Tm (PROFESSIONAL SUMMARY) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 679.3 Tm (High-performance) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 229.352 679.3 Tm (Full-Stack) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 269.0252 679.3 Tm (Engineer) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 304.9772 679.3 Tm (with) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 322.2476 679.3 Tm (7) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 329.2532 679.3 Tm (years) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 353.5376 679.3 Tm (of) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 363.8024 679.3 Tm (experience) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 410.0276 679.3 Tm (building) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 441.3092 679.3 Tm (scalable) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 474.4556 679.3 Tm (products) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 509.0048 679.3 Tm (and) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 525.3512 679.3 Tm (sales,) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 551.0384 679.3 Tm (user,) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 667.8 Tm (employee,) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 203.2196 667.8 Tm (security,) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 240.104 667.8 Tm (storage,) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 275.1152 667.8 Tm (and) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 292.3856 667.8 Tm (processing) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 339.5348 667.8 Tm (monitoring) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 385.7348 667.8 Tm (systems) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 421.6868 667.8 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 433.8248 667.8 Tm (industrial) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 469.7684 667.8 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 486.1148 667.8 Tm (e-commerce) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 535.1204 667.8 Tm (operations.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 656.3 Tm (Specialist) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 198.0788 656.3 Tm (in) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 206.9492 656.3 Tm (MERN) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 234.014 656.3 Tm (architecture,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 282.566 656.3 Tm (high-availability) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 342.3152 656.3 Tm (AWS) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 363.7856 656.3 Tm (deployments,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 416.0756 656.3 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 432.422 656.3 Tm (production-ready) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 497.7824 656.3 Tm (code.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 520.664 656.3 Tm (Proficient) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 558.0104 656.3 Tm (in) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 644.8 Tm (Socket.IO) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 200.8844 644.8 Tm (&) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 209.2844 644.8 Tm (real-time) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 246.6308 644.8 Tm (WebSocket) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 294.242 644.8 Tm (implementations) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 357.7292 644.8 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 369.8672 644.8 Tm (enterprise-grade) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 433.8248 644.8 Tm (dashboards.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 482.3852 644.8 Tm (Currently) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 518.7908 644.8 Tm (developing) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 561.7484 644.8 Tm (a) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 633.3 Tm (cutting-edge) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 208.3604 633.3 Tm (application) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 250.8476 633.3 Tm (to) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 260.1884 633.3 Tm (create) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 285.8672 633.3 Tm (Digital) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 313.8728 633.3 Tm (Twins) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 340.0136 633.3 Tm (from) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 361.0136 633.3 Tm (live) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 377.36 633.3 Tm (video) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 401.636 633.3 Tm (streams.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 438.5204 633.3 Tm (Delivers) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 471.188 633.3 Tm (with) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 488.4584 633.3 Tm (100%) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 512.2724 633.3 Tm (discipline) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 549.1484 633.3 Tm (\227) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 621.8 Tm (architectures) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 210.2168 621.8 Tm (that) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 226.5632 621.8 Tm (scale,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 250.8392 621.8 Tm (systems) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 283.9772 621.8 Tm (that) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 300.3236 621.8 Tm (last,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 318.0644 621.8 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 334.4108 621.8 Tm (code) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 354.9572 621.8 Tm (that) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 371.3036 621.8 Tm (performs) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 406.7768 621.8 Tm (under) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 430.5908 621.8 Tm (the) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 444.602 621.8 Tm (heaviest) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 478.2188 621.8 Tm (loads.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 606.275 Tm (Recognized) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 206.4872 606.275 Tm (as) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 217.6928 606.275 Tm (GitHub) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 248.0252 606.275 Tm (Rank) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 270.8984 606.275 Tm (S+,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 286.0772 606.275 Tm (the) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 300.0884 606.275 Tm (#1) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 311.7644 606.275 Tm (ranked) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 341.6432 606.275 Tm (committer) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 384.584 606.275 Tm (in) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 394.3868 606.275 Tm (Colombia) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 434.9924 606.275 Tm (across) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 462.0656 606.275 Tm (public) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 486.3416 606.275 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 502.688 606.275 Tm (private) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 530.2316 606.275 Tm (repositories,) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 594.775 Tm (with) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 177.0704 594.775 Tm (a) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 184.076 594.775 Tm (sustained) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 222.3632 594.775 Tm (350-day) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 255.0476 594.775 Tm (commit) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 284.4476 594.775 Tm (streak) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 309.656 594.775 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 326.0024 594.775 Tm (21,800+) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 358.9304 594.775 Tm (contributions) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 408.8852 594.775 Tm (in) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 417.7556 594.775 Tm (the) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 431.7668 594.775 Tm (past) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 449.978 594.775 Tm (year.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 470.9864 594.775 Tm (Engineers) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 511.1384 594.775 Tm (high-availability) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 583.275 Tm (double-cluster) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 220.0112 583.275 Tm (architectures) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 275.0984 583.275 Tm (built) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 292.8392 583.275 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 304.9772 583.275 Tm (industrial-grade) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 365.1968 583.275 Tm (security) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 396.47 583.275 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 412.8164 583.275 Tm (zero-downtime) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 470.2304 583.275 Tm (deployments.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 522.5204 583.275 Tm (Builds) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 547.7288 583.275 Tm (full) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 571.775 Tm (e-commerce) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 208.8056 571.775 Tm (dashboards) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 255.0308 571.775 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 267.1688 571.775 Tm (managing) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 306.3884 571.775 Tm (sales,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 330.6644 571.775 Tm (inventory,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 369.4136 571.775 Tm (users,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 394.622 571.775 Tm (employees,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 439.9064 571.775 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 456.2528 571.775 Tm (internal) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 486.1316 571.775 Tm (messaging,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 531.416 571.775 Tm (alongside) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 560.275 Tm (industrial-scale) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 218.1464 560.275 Tm (e-commerce) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 267.152 560.275 Tm (platforms) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 304.028 560.275 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 316.166 560.275 Tm (product) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 346.5152 560.275 Tm (sales) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 368.456 560.275 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 384.8024 560.275 Tm (inventory) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 421.2164 560.275 Tm (control) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 448.76 560.275 Tm (\227) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 459.4952 560.275 Tm (combining) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 500.1092 560.275 Tm (technical) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 535.5908 560.275 Tm (velocity) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 565.9316 560.275 Tm (with) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 548.775 Tm (architectural) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 207.8816 548.775 Tm (discipline) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 244.7576 548.775 Tm (to) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 254.0984 548.775 Tm (ship) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 271.8392 548.775 Tm (reliable) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 301.2476 548.775 Tm (systems) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 334.3856 548.775 Tm (at) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 343.7264 548.775 Tm (scale.) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 159.8 519.2 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 170.0000 517.5000 Tm (RECENT PRODUCTS) Tj T* ET
+1 .843137 0 RG
+.5 w
+n 159.8 514.9 m 591.8 514.9 l S
+.101961 .101961 0 rg
+n 157.3 495.4 437 16.5 re f*
+.047059 .047059 0 rg
+n 157.3 478.9 437 16.5 re f*
+.066667 .066667 .031373 rg
+n 157.3 462.4 437 16.5 re f*
+.047059 .047059 0 rg
+n 157.3 438.4 437 24 re f*
+.066667 .066667 .031373 rg
+n 157.3 421.9 437 16.5 re f*
+.164706 .164706 0 RG
+.4 w
+n 251.3 421.9 m 251.3 511.9 l S
+.164706 .164706 0 RG
+.4 w
+n 375.8 421.9 m 375.8 511.9 l S
+.164706 .164706 0 RG
+.4 w
+n 461 421.9 m 461 511.9 l S
+.164706 .164706 0 RG
+.4 w
+n 157.3 495.4 m 594.3 495.4 l S
+.164706 .164706 0 RG
+.4 w
+n 157.3 478.9 m 594.3 478.9 l S
+.164706 .164706 0 RG
+.4 w
+n 157.3 462.4 m 594.3 462.4 l S
+.164706 .164706 0 RG
+.4 w
+n 157.3 438.4 m 594.3 438.4 l S
+1 .843137 0 RG
+1 w
+n 157.3 421.9 437 90 re S
+1 .843137 0 RG
+1 w
+n 157.3 495.4 m 594.3 495.4 l S
+1 .843137 0 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 191.757 500 Tm (Project) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 294.2212 500 Tm (Core Stack) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 407.0928 500 Tm (Status) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 512.8463 500 Tm (Purpose) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.3 483.9 Tm (Drone DT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 269.7416 483.9 Tm (MERN \267 TS \267 Docker \267 AWS) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 381.8 483.9 Tm (n) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 391.8 483.9 Tm (Development) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 467 483.9 Tm (E-Commerce \267 Drone Factory) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.3 467.4 Tm (Emerald DT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 269.7416 467.4 Tm (MERN \267 TS \267 Docker \267 AWS) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 381.8 467.4 Tm (n) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 391.8 467.4 Tm (Construction) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 467 467.4 Tm (High-Value Asset Management) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.3 447.15 Tm (Digital Twin Video DT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 271.3328 453.4 Tm (MERN \267 TS \267 C++ \267 Python) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 290.9456 445 Tm (Docker \267 AWS) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 381.8 447.15 Tm (n) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 391.8 447.15 Tm (Development) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 467 447.15 Tm (Real-time Industrial Video) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.3 426.9 Tm (Education Platform) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 269.7416 426.9 Tm (MERN \267 TS \267 Docker \267 AWS) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 381.8 426.9 Tm (n) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 391.8 426.9 Tm (Architecture) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 467 426.9 Tm (Educational \267 Scalable Platform) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 159.8 390.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 170.8000 389.0000 Tm (EXPERIENCE) Tj T* ET
+1 .843137 0 RG
+.5 w
+n 159.8 382.9 m 591.8 382.9 l S
+.117647 .564706 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 159.8 362 Tm (Software DT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 159.8 348.7 Tm (Software Engineer  |  Full Stack  |  Architecture) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 541.0688 348.7 Tm (2020 \267 Present) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 329.5 Tm (Independent Freelance Developer) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 159.8 318.1 Tm (Full Stack Engineer  |  MERN Specialist  |  Remote Clients) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 541.0688 318.1 Tm (2021 \267 Present) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 159.8 266.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 170.0000 265.0000 Tm (TECHNICAL ACHIEVEMENTS) Tj T* ET
+1 .843137 0 RG
+.5 w
+n 159.8 262.4 m 591.8 262.4 l S
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 249.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 249.3 Tm (High-Availability) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 235.2244 249.3 Tm (Double-Cluster:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 300.5596 249.3 Tm (Engineered) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 345.8524 249.3 Tm (dual) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 364.0636 249.3 Tm (AWS) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 385.534 249.3 Tm (cluster) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 412.6072 249.3 Tm (architecture) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 458.824 249.3 Tm (with) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 476.0944 249.3 Tm (full) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 489.1648 249.3 Tm (redundancy) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 535.39 249.3 Tm (and) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 237.8 Tm (industrial-grade security \227 zero-downtime production environments at scale.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 215.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 215.3 Tm (Socket.IO) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 208.1596 215.3 Tm (&) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 216.5596 215.3 Tm (Real-Time) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 259.0384 215.3 Tm (Systems:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 298.72 215.3 Tm (Designed) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 336.5368 215.3 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 352.8832 215.3 Tm (deployed) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 389.3056 215.3 Tm (WebSocket-based) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 460.2688 215.3 Tm (enterprise) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 499.9504 215.3 Tm (dashboards) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 546.1756 215.3 Tm (with) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 203.8 Tm (sub-100ms latency, handling thousands of concurrent industrial data streams.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 181.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 181.3 Tm (Video) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 192.2836 181.3 Tm (Digital) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 220.2892 181.3 Tm (Twin) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 241.7596 181.3 Tm (Innovation:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 289.3624 181.3 Tm (Actively) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 320.6356 181.3 Tm (building) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 351.9172 181.3 Tm (an) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 363.5932 181.3 Tm (application) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 406.0804 181.3 Tm (to) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 415.4212 181.3 Tm (generate) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 450.9112 181.3 Tm (interactive) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 491.5252 181.3 Tm (Digital) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 517.1956 181.3 Tm (Twins) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 541.4632 181.3 Tm (directly) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 570.4012 181.3 Tm (from) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 169.8 Tm (live video feeds using computer vision, C++ and Python, and real-time MERN pipelines.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 147.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 147.3 Tm (Mass) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 190.4188 147.3 Tm (Production) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 237.0892 147.3 Tm (Readiness:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 284.2384 147.3 Tm (Systems) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 318.7792 147.3 Tm (engineered) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 363.1396 147.3 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 375.2776 147.3 Tm (low-latency) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 419.6212 147.3 Tm (performance) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 469.1056 147.3 Tm (under) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 492.9196 147.3 Tm (heavy) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 517.666 147.3 Tm (concurrent) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 559.6828 147.3 Tm (load,) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 135.8 Tm (with full observability and monitoring embedded from day one.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 113.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 113.3 Tm (Elite) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 187.1512 113.3 Tm (Velocity) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 221.7004 113.3 Tm (&) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 230.1004 113.3 Tm (Reliability:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 274.9144 113.3 Tm (350-day) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 307.5988 113.3 Tm (unbroken) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 344.9536 113.3 Tm (commit) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 374.3536 113.3 Tm (streak) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 399.562 113.3 Tm (\267) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 404.2324 113.3 Tm (21,800+) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 437.1604 113.3 Tm (contributions) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 487.1152 113.3 Tm (\267) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 491.7856 113.3 Tm (41) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 503.4616 113.3 Tm (active) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 527.7376 113.3 Tm (repos) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 551.0812 113.3 Tm (\227) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 561.8164 113.3 Tm (the) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 101.8 Tm (most active developer in Colombia, sustained and measurable.) Tj T* ET
+ 
+
+endstream
 endobj
 23 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://dtv.vercel.app/)
->> /Border [ 0 0 0 ] /Rect [ 161.3 416.4 206.12 425.4 ] /Subtype /Link /Type /Annot
+/F1 24 0 R
+/F2 25 0 R
+/F3 26 0 R
 >>
 endobj
 24 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.softwaredt.com/)
->> /Border [ 0 0 0 ] /Rect [ 159.8 360.5 212.306 371 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 25 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
-  15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R ] /Contents 29 0 R /MediaBox [ 0 0 612 792 ] /Parent 28 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 26 0 obj
 <<
-/PageMode /UseNone /Pages 28 0 R /Type /Catalog
+/BaseFont /ZapfDingbats
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 27 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20260806012321+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260806012321+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
+/Author (anonymous)
+/CreationDate (D\07220260806012321\05300\04700\047)
+/Creator (anonymous)
+/Keywords ()
+/ModDate (D\07220260806012321\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (unspecified)
+/Title (untitled)
+/Trapped /False
 >>
 endobj
 28 0 obj
 <<
-/Count 1 /Kids [ 25 0 R ] /Type /Pages
+/Length 30959
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.039216 .039216 .039216 rg
+n 0 0 612 792 re f*
+1 .843137 0 RG
+2 w
+n 21.6 780.7 m 591.8 780.7 l S
+1 .843137 0 RG
+1.2 w
+n 21.6 8 m 591.8 8 l S
+1 .843137 0 rg
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 237.501 751 Tm (MANUEL NIETO) Tj T* ET
+BT /F1 8.8 Tf 10.56 TL ET
+.862745 .862745 .862745 rg
+BT /F1 8.8 Tf 10.56 TL ET
+BT 1 0 0 1 142.5972 740.1 Tm (Bogot\341, Colombia   |   +57 313 215 1939   |   ) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 8.8 Tf 10.56 TL ET
+BT 1 0 0 1 317.6644 740.1 Tm (NietoSoftwareDeveloper@outlook.com) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.8 Tf 10.56 TL ET
+BT 1 0 0 1 121.0372 728.6 Tm (Full-Stack Software Engineer   |   Architecture & Systems Specialist   |   ) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 8.8 Tf 10.56 TL ET
+BT 1 0 0 1 400.4724 728.6 Tm (manuelnieto.netlify.app) Tj T* ET
+1 .843137 0 RG
+.5 w
+n 21.6 692.4 m 143.3 692.4 l S
+1 .843137 0 RG
+.5 w
+n 159.8 692.4 m 591.8 692.4 l S
+1 .843137 0 RG
+.6 w
+n 151.6 15 m 151.6 709.9 l S
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 696.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 695.0000 Tm (GITHUB RANK S+) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 681.6 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 680.0000 Tm (GitHub Rank S+) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 21.6 666.2 Tm (Ranked among the global elite GitHub) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 21.6 656.7 Tm (contributors.) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 592.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 591.0000 Tm (ELITE RANKINGS) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 577.6 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 576.0000 Tm (#1 Colombia \227 80,000+ devs) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 564.1 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 562.5000 Tm (#1 Colombia \267 Public Repos) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 550.6 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 549.0000 Tm (#1 Colombia \267 Private Repos) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 537.1 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 31.5000 535.5000 Tm (#2 LATAM Github Committer.top ranking) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 523.6 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 522.0000 Tm (Triple Badge \267 Overall \267 Public \267) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 511.5000 Tm (Private) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 21.6 498.2 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 32.8000 496.5000 Tm (350-day) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 66.4168 496.5000 Tm (Streak) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 94.4308 496.5000 Tm (Unbroken) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 21.6 482.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 32.8000 482.8000 Tm (21,800+) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 65.7280 482.8000 Tm (Commits) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 103.9984 482.8000 Tm (Last) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 122.2096 482.8000 Tm (Year) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 21.6 467.2 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 32.8000 465.5000 Tm (5) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 39.8056 465.5000 Tm (Active) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 67.3492 465.5000 Tm (Projects) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 412.2 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 410.5000 Tm (TECH STACK) Tj T* ET
+1 .843137 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 21.6 395.3 Tm (Backend) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 385.2000 Tm (Node.js \267 Express \267 MongoDB \267) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 375.0000 Tm (TypeScript \267 PostgreSQL \267) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 364.8000 Tm (REST APIs \267 Socket.IO \267) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 354.6 Tm (Python \267 C++) Tj T* ET
+1 .843137 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 21.6000 336.0000 Tm (Frontend) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 325.9000 Tm (React \267 Next.js 15 \267 TypeScript) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 315.7000 Tm (Tailwind CSS) Tj T* ET
+1 .843137 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 21.6000 297.1000 Tm (Cloud/DevOps) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 287.0000 Tm (AWS EC2 / S3 / Clusters \267 Docker) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 276.8000 Tm (CI/CD \267 Vercel \267 Railway \267 Git) Tj T* ET
+1 .843137 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 21.6000 258.2000 Tm (Data & IoT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 248.1000 Tm (Ethical AI \267 Real-time Monitoring) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6000 237.9000 Tm (Digital Twin IoT) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 205.9 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 204.2000 Tm (VERIFIED LINKS) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 190.8 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 189.2000 Tm (GitHub Profile) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 175.3 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 173.7000 Tm (#1 Colombia Rank) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 159.8 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 158.2000 Tm (Public Repo Rank) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 144.3 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 142.7000 Tm (Private Repo Rank) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 128.8 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5000 127.2000 Tm (GitHub Rank Badge) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 21.6 93.9 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 31.8000 92.2000 Tm (CONTACT & TERMS) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 77.4 Tm (Rate: Starting at $35 / hr USD) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 61.2 Tm (Languages: English \(Pro\) \267) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 51 Tm (Spanish \(Native\)) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 21.6 34.8 Tm (Mode: Remote \267 Freelance \267 Global) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 159.8 695 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 170.0000 695.0000 Tm (PROFESSIONAL SUMMARY) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 679.3 Tm (High-performance) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 229.352 679.3 Tm (Full-Stack) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 269.0252 679.3 Tm (Engineer) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 304.9772 679.3 Tm (with) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 322.2476 679.3 Tm (7) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 329.2532 679.3 Tm (years) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 353.5376 679.3 Tm (of) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 363.8024 679.3 Tm (experience) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 410.0276 679.3 Tm (building) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 441.3092 679.3 Tm (scalable) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 474.4556 679.3 Tm (products) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 509.0048 679.3 Tm (and) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 525.3512 679.3 Tm (sales,) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 551.0384 679.3 Tm (user,) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 667.8 Tm (employee,) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 203.2196 667.8 Tm (security,) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 240.104 667.8 Tm (storage,) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 275.1152 667.8 Tm (and) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 292.3856 667.8 Tm (processing) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 339.5348 667.8 Tm (monitoring) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 385.7348 667.8 Tm (systems) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 421.6868 667.8 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 433.8248 667.8 Tm (industrial) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 469.7684 667.8 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 486.1148 667.8 Tm (e-commerce) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 535.1204 667.8 Tm (operations.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 656.3 Tm (Specialist) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 198.0788 656.3 Tm (in) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 206.9492 656.3 Tm (MERN) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 234.014 656.3 Tm (architecture,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 282.566 656.3 Tm (high-availability) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 342.3152 656.3 Tm (AWS) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 363.7856 656.3 Tm (deployments,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 416.0756 656.3 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 432.422 656.3 Tm (production-ready) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 497.7824 656.3 Tm (code.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 520.664 656.3 Tm (Proficient) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 558.0104 656.3 Tm (in) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 644.8 Tm (Socket.IO) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 200.8844 644.8 Tm (&) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 209.2844 644.8 Tm (real-time) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 246.6308 644.8 Tm (WebSocket) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 294.242 644.8 Tm (implementations) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 357.7292 644.8 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 369.8672 644.8 Tm (enterprise-grade) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 433.8248 644.8 Tm (dashboards.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 482.3852 644.8 Tm (Currently) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 518.7908 644.8 Tm (developing) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 561.7484 644.8 Tm (a) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 633.3 Tm (cutting-edge) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 208.3604 633.3 Tm (application) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 250.8476 633.3 Tm (to) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 260.1884 633.3 Tm (create) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 285.8672 633.3 Tm (Digital) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 313.8728 633.3 Tm (Twins) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 340.0136 633.3 Tm (from) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 361.0136 633.3 Tm (live) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 377.36 633.3 Tm (video) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 401.636 633.3 Tm (streams.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 438.5204 633.3 Tm (Delivers) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 471.188 633.3 Tm (with) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 488.4584 633.3 Tm (100%) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 512.2724 633.3 Tm (discipline) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 549.1484 633.3 Tm (\227) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 621.8 Tm (architectures) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 210.2168 621.8 Tm (that) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 226.5632 621.8 Tm (scale,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 250.8392 621.8 Tm (systems) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 283.9772 621.8 Tm (that) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 300.3236 621.8 Tm (last,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 318.0644 621.8 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 334.4108 621.8 Tm (code) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 354.9572 621.8 Tm (that) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 371.3036 621.8 Tm (performs) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 406.7768 621.8 Tm (under) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 430.5908 621.8 Tm (the) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 444.602 621.8 Tm (heaviest) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 478.2188 621.8 Tm (loads.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 606.275 Tm (Recognized) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 206.4872 606.275 Tm (as) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 217.6928 606.275 Tm (GitHub) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 248.0252 606.275 Tm (Rank) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 270.8984 606.275 Tm (S+,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 286.0772 606.275 Tm (the) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 300.0884 606.275 Tm (#1) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 311.7644 606.275 Tm (ranked) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 341.6432 606.275 Tm (committer) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 384.584 606.275 Tm (in) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 394.3868 606.275 Tm (Colombia) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 434.9924 606.275 Tm (across) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 462.0656 606.275 Tm (public) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 486.3416 606.275 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 502.688 606.275 Tm (private) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 530.2316 606.275 Tm (repositories,) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 594.775 Tm (with) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 177.0704 594.775 Tm (a) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 184.076 594.775 Tm (sustained) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 222.3632 594.775 Tm (350-day) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 255.0476 594.775 Tm (commit) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 284.4476 594.775 Tm (streak) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 309.656 594.775 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 326.0024 594.775 Tm (21,800+) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 358.9304 594.775 Tm (contributions) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 408.8852 594.775 Tm (in) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 417.7556 594.775 Tm (the) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 431.7668 594.775 Tm (past) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 449.978 594.775 Tm (year.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 470.9864 594.775 Tm (Engineers) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 511.1384 594.775 Tm (high-availability) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 583.275 Tm (double-cluster) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 220.0112 583.275 Tm (architectures) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 275.0984 583.275 Tm (built) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 292.8392 583.275 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 304.9772 583.275 Tm (industrial-grade) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 365.1968 583.275 Tm (security) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 396.47 583.275 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 412.8164 583.275 Tm (zero-downtime) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 470.2304 583.275 Tm (deployments.) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 522.5204 583.275 Tm (Builds) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 547.7288 583.275 Tm (full) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 571.775 Tm (e-commerce) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 208.8056 571.775 Tm (dashboards) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 255.0308 571.775 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 267.1688 571.775 Tm (managing) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 306.3884 571.775 Tm (sales,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 330.6644 571.775 Tm (inventory,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 369.4136 571.775 Tm (users,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 394.622 571.775 Tm (employees,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 439.9064 571.775 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 456.2528 571.775 Tm (internal) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 486.1316 571.775 Tm (messaging,) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 531.416 571.775 Tm (alongside) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 560.275 Tm (industrial-scale) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 218.1464 560.275 Tm (e-commerce) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 267.152 560.275 Tm (platforms) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 304.028 560.275 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 316.166 560.275 Tm (product) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 346.5152 560.275 Tm (sales) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 368.456 560.275 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 384.8024 560.275 Tm (inventory) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 421.2164 560.275 Tm (control) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 448.76 560.275 Tm (\227) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 459.4952 560.275 Tm (combining) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 500.1092 560.275 Tm (technical) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 535.5908 560.275 Tm (velocity) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 565.9316 560.275 Tm (with) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 548.775 Tm (architectural) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 207.8816 548.775 Tm (discipline) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 244.7576 548.775 Tm (to) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 254.0984 548.775 Tm (ship) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 271.8392 548.775 Tm (reliable) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 301.2476 548.775 Tm (systems) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 334.3856 548.775 Tm (at) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 343.7264 548.775 Tm (scale.) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 159.8 519.2 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 170.0000 517.5000 Tm (RECENT PRODUCTS) Tj T* ET
+1 .843137 0 RG
+.5 w
+n 159.8 514.9 m 591.8 514.9 l S
+.101961 .101961 0 rg
+n 157.3 495.4 437 16.5 re f*
+.047059 .047059 0 rg
+n 157.3 478.9 437 16.5 re f*
+.066667 .066667 .031373 rg
+n 157.3 462.4 437 16.5 re f*
+.047059 .047059 0 rg
+n 157.3 438.4 437 24 re f*
+.066667 .066667 .031373 rg
+n 157.3 421.9 437 16.5 re f*
+.164706 .164706 0 RG
+.4 w
+n 251.3 421.9 m 251.3 511.9 l S
+.164706 .164706 0 RG
+.4 w
+n 375.8 421.9 m 375.8 511.9 l S
+.164706 .164706 0 RG
+.4 w
+n 461 421.9 m 461 511.9 l S
+.164706 .164706 0 RG
+.4 w
+n 157.3 495.4 m 594.3 495.4 l S
+.164706 .164706 0 RG
+.4 w
+n 157.3 478.9 m 594.3 478.9 l S
+.164706 .164706 0 RG
+.4 w
+n 157.3 462.4 m 594.3 462.4 l S
+.164706 .164706 0 RG
+.4 w
+n 157.3 438.4 m 594.3 438.4 l S
+1 .843137 0 RG
+1 w
+n 157.3 421.9 437 90 re S
+1 .843137 0 RG
+1 w
+n 157.3 495.4 m 594.3 495.4 l S
+1 .843137 0 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 191.757 500 Tm (Project) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 294.2212 500 Tm (Core Stack) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 407.0928 500 Tm (Status) Tj T* ET
+1 .843137 0 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 512.8463 500 Tm (Purpose) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.3 483.9 Tm (Drone DT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 269.7416 483.9 Tm (MERN \267 TS \267 Docker \267 AWS) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 381.8 483.9 Tm (n) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 391.8 483.9 Tm (Development) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 467 483.9 Tm (E-Commerce \267 Drone Factory) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.3 467.4 Tm (Emerald DT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 269.7416 467.4 Tm (MERN \267 TS \267 Docker \267 AWS) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 381.8 467.4 Tm (n) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 391.8 467.4 Tm (Construction) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 467 467.4 Tm (High-Value Asset Management) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.3 447.15 Tm (Digital Twin Video DT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 271.3328 453.4 Tm (MERN \267 TS \267 C++ \267 Python) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 290.9456 445 Tm (Docker \267 AWS) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 381.8 447.15 Tm (n) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 391.8 447.15 Tm (Development) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 467 447.15 Tm (Real-time Industrial Video) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.3 426.9 Tm (Education Platform) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 269.7416 426.9 Tm (MERN \267 TS \267 Docker \267 AWS) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 381.8 426.9 Tm (n) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 391.8 426.9 Tm (Architecture) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 467 426.9 Tm (Educational \267 Scalable Platform) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 159.8 390.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 170.8000 389.0000 Tm (EXPERIENCE) Tj T* ET
+1 .843137 0 RG
+.5 w
+n 159.8 382.9 m 591.8 382.9 l S
+.117647 .564706 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 159.8 362 Tm (Software DT) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 159.8 348.7 Tm (Software Engineer  |  Full Stack  |  Architecture) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 541.0688 348.7 Tm (2020 \267 Present) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 159.8 329.5 Tm (Independent Freelance Developer) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 159.8 318.1 Tm (Full Stack Engineer  |  MERN Specialist  |  Remote Clients) Tj T* ET
+.666667 .666667 .666667 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 541.0688 318.1 Tm (2021 \267 Present) Tj T* ET
+1 .843137 0 rg
+BT /F3 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 159.8 266.7 Tm (n) Tj T* ET
+1 .843137 0 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 170.0000 265.0000 Tm (TECHNICAL ACHIEVEMENTS) Tj T* ET
+1 .843137 0 RG
+.5 w
+n 159.8 262.4 m 591.8 262.4 l S
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 249.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 249.3 Tm (High-Availability) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 235.2244 249.3 Tm (Double-Cluster:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 300.5596 249.3 Tm (Engineered) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 345.8524 249.3 Tm (dual) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 364.0636 249.3 Tm (AWS) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 385.534 249.3 Tm (cluster) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 412.6072 249.3 Tm (architecture) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 458.824 249.3 Tm (with) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 476.0944 249.3 Tm (full) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 489.1648 249.3 Tm (redundancy) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 535.39 249.3 Tm (and) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 237.8 Tm (industrial-grade security \227 zero-downtime production environments at scale.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 215.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 215.3 Tm (Socket.IO) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 208.1596 215.3 Tm (&) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 216.5596 215.3 Tm (Real-Time) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 259.0384 215.3 Tm (Systems:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 298.72 215.3 Tm (Designed) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 336.5368 215.3 Tm (and) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 352.8832 215.3 Tm (deployed) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 389.3056 215.3 Tm (WebSocket-based) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 460.2688 215.3 Tm (enterprise) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 499.9504 215.3 Tm (dashboards) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 546.1756 215.3 Tm (with) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 203.8 Tm (sub-100ms latency, handling thousands of concurrent industrial data streams.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 181.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 181.3 Tm (Video) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 192.2836 181.3 Tm (Digital) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 220.2892 181.3 Tm (Twin) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 241.7596 181.3 Tm (Innovation:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 289.3624 181.3 Tm (Actively) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 320.6356 181.3 Tm (building) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 351.9172 181.3 Tm (an) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 363.5932 181.3 Tm (application) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 406.0804 181.3 Tm (to) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 415.4212 181.3 Tm (generate) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 450.9112 181.3 Tm (interactive) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 491.5252 181.3 Tm (Digital) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 517.1956 181.3 Tm (Twins) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 541.4632 181.3 Tm (directly) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 570.4012 181.3 Tm (from) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 169.8 Tm (live video feeds using computer vision, C++ and Python, and real-time MERN pipelines.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 147.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 147.3 Tm (Mass) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 190.4188 147.3 Tm (Production) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 237.0892 147.3 Tm (Readiness:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 284.2384 147.3 Tm (Systems) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 318.7792 147.3 Tm (engineered) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 363.1396 147.3 Tm (for) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 375.2776 147.3 Tm (low-latency) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 419.6212 147.3 Tm (performance) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 469.1056 147.3 Tm (under) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 492.9196 147.3 Tm (heavy) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 517.666 147.3 Tm (concurrent) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 559.6828 147.3 Tm (load,) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 135.8 Tm (with full observability and monitoring embedded from day one.) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 161.8 113.3 Tm (\177) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 167.0752 113.3 Tm (Elite) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 187.1512 113.3 Tm (Velocity) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 221.7004 113.3 Tm (&) Tj T* ET
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 230.1004 113.3 Tm (Reliability:) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 274.9144 113.3 Tm (350-day) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 307.5988 113.3 Tm (unbroken) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 344.9536 113.3 Tm (commit) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 374.3536 113.3 Tm (streak) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 399.562 113.3 Tm (\267) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 404.2324 113.3 Tm (21,800+) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 437.1604 113.3 Tm (contributions) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 487.1152 113.3 Tm (\267) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 491.7856 113.3 Tm (41) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 503.4616 113.3 Tm (active) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 527.7376 113.3 Tm (repos) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 551.0812 113.3 Tm (\227) Tj T* ET
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 561.8164 113.3 Tm (the) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 170.8 101.8 Tm (most active developer in Colombia, sustained and measurable.) Tj T* ET
+ 
+.117647 .564706 1 rg
+BT /F1 8.8 Tf 10.56 TL ET
+BT 1 0 0 1 163.0264 717.1 Tm (github.com/NietoDeveloper) Tj T* ET
+.862745 .862745 .862745 rg
+BT 1 0 0 1 269.1544 717.1 Tm (   |   ) Tj T* ET
+.117647 .564706 1 rg
+BT 1 0 0 1 286.1208 717.1 Tm (linkedin.com/in/manuelfrancisconietoarias) Tj T* ET
+.117647 .564706 1 rg
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 21.6 113.3 Tm (n) Tj T* ET
+.117647 .564706 1 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 31.5 111.7 Tm (LinkedIn Profile) Tj T* ET
+.862745 .862745 .862745 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 368.0024 548.775 Tm (Also builds education platforms.) Tj T* ET
+
+endstream
 endobj
 29 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 6481
+/Type /Annot
+/Subtype /Link
+/Rect [ 163.0264 715.5 269.1544 726.3 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057NietoDeveloper)
 >>
-stream
-GauHQD0+H$P5_%[0i`Re\nio#o*QV4:6t*3'he7WZu]I50+^.,YQ4b?!6Xi_rqPm#lO64=*!j]aee07eR@^"AT'i3<-7(kR8*bYkCI6l1aA;7QTo:O?#o0$SMt^bjps/JV`2Fll?]2PbZMJ,9Y65F^KdO9Ys,I^F'V+^oIWPJ2GDpp'5@`2A,RAfO+DW/Gl@nV(9'3a(:sXA6m/K7soX@(N9f""N7%3EX)OfXJ[%/8uJL>k<!_LLC:&a>Ho]jol4h8.k/O'(t(B5Y<^UJ.>lpIt2U:r!:/2'sR&<cC/m=sNqP!K'_b`bm(4;,B[d-rs.bH!:$co:#::\46R&edV2%KHH*"pCe.F-2,F4DK@^&F*+2-kR"-9*Dt\!KJIZe%emS#_S5>6s'1H^TG5iKg+*!3mBUpptpI'V0W&q\'3Ida=h*-'4)qE0S5"g;DA*^D47'?X*FFFl)5`2ln6De0&!:3cE=@lpZ/\`hC"Rp<a5?_q*m$$3).P1;Z9),POOl(h`B&k3mEaZ?Dab[\c([0RuK/XNpq@8OBiSUfL0Kd!:KCNBofp9Y>?);Fko-=bWl&dC>ZjI5ZH>%[t,WHd?>N'!s@iE%3p]m4/F*(_7%:mB2?`lfQPT9"ne[&NV1K6in$tEan=oKDe/k-;6.Z-d&^:/nU90'-8q[e6=iYZ_"3oo+SlP`8bMECL0VdP+$0TUr#^IXHo6\X\H3uI,`e5-^O]f)?a!#5cEfT1h.q%tju79PF:,<K)Bu%">]pLfbd4<?DRNPOPhpu15"9W>8F(Al"$<0qR_?I<b\G81\GBc#RHV^7QrnH@d,=k^%SH[-K3s<2)rLC>,V/gi:.N&3XU^t^IKeoaSf*'+IGE\Tac]op9g7MEUd+MZM!,0AMrZ%9%5mYY^p7o`!ej+o/O6@UrrfjuQ@P+lVi0"se,f<:LsGSa3iOT7GZDI$"fRD+]:3[bN).,$XANqp,2&c\]T$!:\ljq%&%[SGe.O>1I]@rJD->LD\qBiI,puju_;D^ga=@jVXn"YFb<6*NI8FtdNK+p;9E/N;J(qA&&"tE>724fs!1HuCNrRaEgHLAp#"QU['B`;;;riGlCiU#?0'C/]%K]m;_m)\YNo2$iTn1[/[aLFne>F?YLG4hHa(=?@6R*-.3+]o'6c[1,X.Y&9j]HZ*9=j[9e0t'f1*B>Y<UufRf22P8i.he%+,g&hi%gN1(cR%%#Bh+CD?RNnNIm[krCZ41e$IpA_`"/`.<-D#5d&p9n>CB:EcTuNCC&nHs5/kZb*E-2q+?#6//o<fqf>^"Z@04c4#T<QgH7%$D=i2^#=(.(,sf/UH!/r<HN&E_RfT^*o*%/QGYpXc:o5'D`N.Ci3O$!`/j?pm`C/ko]IUc5It]3/WjP[+FhFdo/m[^+.pP5V)ddlYR.M;LC_8&Zf-FR_ZhaO<9_3m;bg4^b]DCbs5CD+J'9g_9:-"pF4t!Zm7XcP&%f`&qgCgTl<nu"u&rN[/%\(B+m,FqLo4FN=\le7KA@b6:`o!3iYRY$_:Sqm/$3Qm?<D:+S(\qP*)9K*gZ<;=B/A](a]kAdgj7K->ef$D9!flK)<BJ1X,&I"hH#f6N0_b];EG(SI:Bfm),!NuF^jOO%h<3Ja`Oh&]3I-*op"OR`09,m1LJ;@CdkGN.DBgKIjPD5_SrVm)44PZ&3T.%8C&3Z'M4'Cf3gM]RdB`@)$t"BkU4nu'e"SYj9a?&TW`_;=X'&hgF<(Lc4kL&t7`6ZR(f=q0Spe*M'64--HSN.H4FG-i<guD%SdO)RDEj>1'c.T5B+e;,^USr\n@g$;k3!D:UhDiHpMkAcNULub1Yr/.8U4+GTF(Y[LY&cng?YF--I/'BY$uK6^AK\$P^$gj?@o$O1J%I*YM/Kd]0bg?cBdkX06Or%ATH>W*69SiMUp'O#PR]a_n4TLIduC^oKAUl]"C/=reKNnd'Klm6[96NMW`UPmf$alMqbmH,EH)8B>spC1';O+?uj7bOlnM.XLjm@L#R'S7mUNLI8-_gB0Vg#Fr,]b@$E_WSC_uj2dh$^EUbI.E=bW\:NDAZr72`REA-sP0L59&Yl'>!Z1dBZqokeuAt,SHgS-e?8l1TGOiaC3XOd.nFf-]#SrhBrC/a2omF"/1,^g4p?^U^:[QMR)GV6f]j-!SeMc3oqE<_TUo6G"%hR:qQ)[H%TBS]\PW1_\<HG)oADd#6Ob'`V3)CYcheB;]k<8ZK9nFG?N-5?5,E,<'0JS@b+C7$&W`.B`u!dH-<\UfDcF]n-pr.@(o8$K+Lan56ia6Ydi:jR[%<dk/>H0m0Z!`.?CR7M9b32:Fh2pA!Da]@?G(Q!8;*sW"j6_Hd9r8J_b#o/8H7?Ti;k3Flcr6>Y$K01k]1bkI%baLZ#/pJa)[\[a5rK*&u*:&VOcOW>U/BODXC0u5u#(?dg9H%o*!NXJC_E`s;S<HITq]K.b_#$q4gc\h"nO&h^8WomBH^sI/n>CN50RCslhri95E9[Y8_WXit)AVRAB@Z$`i:+:X?jSEp0cP[":G?j%m4epQHW''Pjif7f"Y`Y_Y3-GXf$:mbq3X$N^sjNf,oA)Vi\&'*pZo_,^UR']@#F+keOL[J^))Mj(g,\-@t:Om@h`4Yci)3jT#07(!UFrXdnJ)5@n$ODBP'LU?rq$+r^KmKD^YpT`Zc(9`9G5!5RCFuU&[WnfG$oV:[X*bj_fJ>#@7qOMTbmd4>'[2o1$O]83#$l!me;D!CWg1Ro@b^$R0@L=&&DI#]j9$l3/@g"YH>F[,\gJ,23GL+XbtR#T\1iKcX<o!.)/"ZUp?l/U>WT&pA!V&GBd;mdB7i4WB,&8P@^6Q2;U+F0?26*iP(.3ua1oj>LBmdkPJ'm\GH6mSe#okI.Tm>*!c(kq5Xjid.$uJS0Nr,V/h,\IP;=+&$)NVSmS;on`Rj6VfI1(=+j5lu=l?Ya8![L('l+nVtEn#(A3W8Yj*#hsS(0Gq<>MbUP'.$#Hrlh51sM7tjAFk4DBO?5W'/QXOts0*Hp"1X$%An>cB<rJ4tkCfcQ.oe73_).<ZCL>n=!1sQ88+`Ck(0:Ea`_hKu&5<V[YQ^.0\3#l<ik0b1VkAKs5E&e'oc/h82e_L5A`;5hl-GZjP`LAb$l`Lf7,mscI%_(-64`W$^n&`Y[jk8H"!kU_n-@>0'r/bT9IoQUpm'"d3-dC]%CO"IH6.Y2/>jGsMQR2[[c2ra'Ym=2^%(Osc+D"Y8&i#lU8(m,s>4Q)@<];C>hZt8.'S'r7Cc`;Dro48K*W=S1(@;^>_c^sRo,W/V7bqo'0P5+>@_`\#R=MpF"/^\.p<8h.,-cJO:O$nmHB2Pn#>r;4icQNmJE\]Fh6d@K]nk>u`QKGYh%c5bT[,?M@6e\pX7e8&4^br42<&S:54_`eF)(:pVti;#:ns!<OAoUCHl^qKU]8g,0*r",Zm1Pb"t<ZtIK7ru$03W\'SP$JPQas&b:3]pcs<%pE.H=c1=;]7g-0<i8^A27PVmg:?%IP=YmXQlaoU[SjP_GiGWs!G!V=^ZHT`&*M<+$@[S;R'l!fEFD<935E/ai>4N'46M<H"'(2tT)Eede-N"_3Y?eIMQ1EpaBJ?':d2@eU2\iYXcZ::On=l.t_4516IO?rE.cpW45'L#5&<._m3Bt@:SMHlc)S(p_N6\Ae]JMIW(AR8O?Rib?@'+lmu8&R/cj'S3F@tKbIL4Y7<>`OdO5B8&5)C^"b\pILkYQuf5^g;X*f*iAg7?u-nJ*A.A=lj"sI?Ec(2@HSYP::IgIEIBC#1eH=9Ye-)al&aF+>>Jig'_l3:"/?&HZ1";]fl>r';M<G<e?]X6c=<#)2jgc-JXF%_,T>i[)>Y.Fe$Ep,D+Gc/23*%JdJkM"64@m^i/N69rK=a!3s_*a,(8G>X/Q'F..'8dP6>/;"]]#>:eLhN=e+.*"Fl6g%-2iq'?lmP(c!qJg2EXEW;(YpLmH/6D;T.Q3ue89!AB8%U,Cbfj1"JMKbf^Wr.9K^5h`oLE&[B$="SRoE@8U2]EZJ#21D`X&3:R4P"mlcZdUt87AWcZ>"'VVqnQGPp^e==)WT_m>B;3S#A'M3d;0X%\>6cXV)M8W5IhZ0\"["m_6S,kQU\XG!bXfmWq]Fd143`(iRL8gbnqqr>""!?jGP$=P#;TA#BfTRV6pT\f>-%8MIWJ=sFnm40J<Gl2t,MYp&HtJ*%!oMBU(GiqU\8-G[O72@LqfL`92?>4^O".IWI[1Ctu+`]?&/$CrMR1.f#PS*XL?Wc=@SGjeJl$sG/A6CDht0@^Q-n.9kR4-<RfBJ`H*D3NF$_-q9"c*Ob0eUi1]rc%l$D"1K4`,9?38\mp^>Os[IfP(T_!I-WoB)C+s3b)#i(]$T6===02@Te-.+q#V[^5PVWeUA_K!Vk%]D5DIV'oD#&H]#@o,ilIt=QDLU\6Y.cU.oK"pU/tiB_j)Jg:t(6T.lAREW#&[3V_06s(:kEgm^XXr]U2Y\@9[n?IpolmcheOlfIQlXIkN#;_`>e`Ju%H?MONEqWZ'[l_X(-XIo3oE&1kcf05(2je)S5-i!I9+\o/10V#Ube&+(t_Z3L!/o(uE!?BT7c[s`Y@glj5/a?K!;qe3()$);H,kUV]XTJdOC3un!_#[BVKF!:k!tViZ-81E1c90HHMQ1uXL0ZgoH')a.S@b's5M*"E1T\tO)@!0f_)4[IF0bq[q;0DN4kq=Cg!P)$>(.=B,u+!H`-<,%cu%[R[@L.j_Ee;uFVnS2En:(s/_fR@H5A5YN;T$"KBfH@>B/k92m4A>rE+Q_<:iOR0,4Qo?VN!S`ndaI19XEn[[0K;-54OToK+4$A*9c?.k-=(R(lrIqOsf'LE?:CccW8$'&k:)LOP2nr:4p!DDaF+93mZQ%!(W=&U^97E7'PM0+X^%?:,q5Jc9tPk_Ga9,'rHSP_am3Iu/m[a/flgc^5:PqLP/?4]WqoLjl#3?6]6>VjE2\qXol-IYa\+b=*L3-D,JpR7DW%4S#E7+A*C"f)U:=7J$O$B@ds+X0^KAY!*AaiT`?tNJ$kfTJI4gJW_CUAm@40N5!]Ej#Ir7e(rVX\\Z</N'5&)9)7@t?n$K`Wmm)A6Y-L:5L;V^$L7G3=#NmmI-,Wi3-ArYk*U=5m;0W5Cn`p4LjGiTT<'fZ/+h)f*I#@VF))#X>sBKbTbaD=j^PZsL7bk*+O3k9)_59Jh`Y,XDsG4.UNRt_'=EO3@W>'Nh=%L!c;*8\e$EC7AtN_&Z`Bi'E_Mn7ZIochH"d>:WprJYf)C@-O)>sJ@po/%A-P_E?(F/Xrcp10KhII]+UlTd-F9Q99(oT<9\K09N0JnG8[<\h*#I$2,r<YID;FX`Yg8o%'eTU4Qm1-Y@Ni>anjN2t0c;4Y&'T`dpM8&!DkfWMaYV:5<QYHeo-6m@G1&F3K)tk#.UgI\XSXn[JHg83IKJcpOi\rjG(teC61JX-%s&$N-7=p.Z)HotD<:DOTpD)0lldhKXNo),Ak%ia.ji[c<)0/NHC,M5o"r4>n*qIB]p'>Np,5BW#VO,]nq-;4qh>r/CMpDIeJF.Z`\<g&Y05mD6tS+Gacp%ub;SK4>r"&A\OfV]#W@8WfU6kXg]=FYG<WQo96WdTQbmDa%#@8rYqoJrH'.aD2&r6c-&(o'@*NiZ>O+b&pq/+CgYSGshd;]qN@PILmL?^^ohL_I6Q#B2#nJ?(Dojc\Q;*2l)>"A@@@tb,<L;0J%N<bE1rfU&l^]&OK<=6%3/%U-Oi=u#50LgaU^2m(SRDY-k<pX_(Km%ge:lB>RKN;NJoc0%CO/afQa1]!&&G)6f\!o:>Z*5LJ]XqE3A2E-HcV"I+QH,=Z&m9BI?ROr#o*M"[_Q+R!T[!gfU6?)rT"'=/>tU^0AbG<r3.6;Sn-DiGs]Xa(EE`%N@ZO2>I&][),a6YC\:_"!Oh-H*XeY6KQ",1Vttf[]h2;VlkGAu8R9kADRBZ`]#>^iTLIJ%/Z]Q^W^IL/Zn!S[`kU^hDj$+"N1\_KV]qKrTCst*n`02G_s.re!p`;\R#epTlL"lY9smIX_8$sn+o=a]:nd@qRUZHPHt6+ep@JVAZLiBS'!rM;W:##:0o;A#Gg&H]U87V:PP3LM=(@AjC,OS;]qAFQ2@uWsiXKS]8u1FANi9oGXDT*,Op+&jc@d(:+(m./nQ!XsMsp1NdON.(pMegN*]+`@3l*)V.<Y1-``Qte1UOA2H@;Pi/%m.*$Gho&7e5m\gcnF,,YFtiRGeC&3TGd[92/-NcVGgQ*k((Dr:85Fkb6eF8<16e(<1Kf$sBcu]B0G'#ei"O7M]Ln7gd<c1m`(Vpp4n!%"d$%EMs;EEE/PLB#eb]OYr]fX%?mF^eQ]I,OI`Y-CDnkWnu)f3#?ZDr7!9/8\rTm3DmksI.7=o>msY@#8m!0GlM`+3!\c/RNUW!;oo(o_"P>A:pKWFAOe4Z$9tFHF51j#Z,9UJ2E/G(Q*(d7F2)LjZ-LOM1oqq&mNr0dn@i90)q('m2_&.SjgMt;C/^Oan,<Fb!5KB~>endstream
+>>
+endobj
+30 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 286.1208 715.5 448.9736 726.3 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057manuelfrancisconietoarias\057)
+>>
+>>
+endobj
+31 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 31.5 110.2 85.2576 120.2 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057manuelfrancisconietoarias\057)
+>>
+>>
 endobj
 xref
-0 30
+0 32
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000518 00000 n 
-0000000694 00000 n 
-0000000777 00000 n 
-0000001249 00000 n 
-0000001435 00000 n 
-0000001624 00000 n 
-0000001819 00000 n 
-0000002002 00000 n 
-0000002176 00000 n 
-0000002345 00000 n 
-0000002518 00000 n 
-0000002703 00000 n 
-0000002896 00000 n 
-0000003090 00000 n 
-0000003568 00000 n 
-0000003739 00000 n 
-0000003919 00000 n 
-0000004092 00000 n 
-0000004264 00000 n 
-0000004429 00000 n 
-0000004597 00000 n 
-0000004943 00000 n 
-0000005013 00000 n 
-0000005275 00000 n 
-0000005336 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000479 00000 n 
+0000000675 00000 n 
+0000000869 00000 n 
+0000001364 00000 n 
+0000001570 00000 n 
+0000001782 00000 n 
+0000001999 00000 n 
+0000002202 00000 n 
+0000002393 00000 n 
+0000002579 00000 n 
+0000002769 00000 n 
+0000002974 00000 n 
+0000003190 00000 n 
+0000003407 00000 n 
+0000003909 00000 n 
+0000004098 00000 n 
+0000004289 00000 n 
+0000004476 00000 n 
+0000004662 00000 n 
+0000035064 00000 n 
+0000035119 00000 n 
+0000035227 00000 n 
+0000035340 00000 n 
+0000035424 00000 n 
+0000035714 00000 n 
+0000066727 00000 n 
+0000066922 00000 n 
+0000067147 00000 n 
 trailer
 <<
-/ID 
-[<b401eb7a839842841caab8f3be2d4c1e><b401eb7a839842841caab8f3be2d4c1e>]
-% ReportLab generated PDF document -- digest (opensource)
-
+/Size 32
+/Root 1 0 R
 /Info 27 0 R
-/Root 26 0 R
-/Size 30
+/ID [ <b401eb7a839842841caab8f3be2d4c1e> <b401eb7a839842841caab8f3be2d4c1e> ]
 >>
 startxref
-11909
+67367
 %%EOF
